@@ -21,11 +21,14 @@
     <ClCompile Include="Weekly1.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="Weekly3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Weekly2.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Weekly3.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Weekly4.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Weekly3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Weekly4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

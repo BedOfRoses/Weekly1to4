@@ -1,12 +1,16 @@
 #include "Weekly1.h"
 #include "Weekly2.h"
 #include "Weekly3.h"
+#include "Weekly4.h"
 
 int main() {
 
-	Weekly3 Simon;
-	Simon.randomizer();
-	Simon.guess();
+	Weekly4* player = new Weekly4();
+	player->board;
+	player->player = 'C';
+	player->createPlayer();
+	player->printBoard();
+	delete(player);
 
 
 	return 0;

@@ -9,6 +9,8 @@ class Weekly3
 {
 public:
 	
+	int highScore{};
+
 	int guessCount{};
 
 	int number{};

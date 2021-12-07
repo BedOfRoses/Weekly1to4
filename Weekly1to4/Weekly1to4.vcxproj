@@ -143,11 +143,13 @@
     <ClCompile Include="Weekly1.cpp" />
     <ClCompile Include="Weekly2.cpp" />
     <ClCompile Include="Weekly3.cpp" />
+    <ClCompile Include="Weekly4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Weekly1.h" />
     <ClInclude Include="Weekly2.h" />
     <ClInclude Include="Weekly3.h" />
+    <ClInclude Include="Weekly4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
